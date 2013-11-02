@@ -37,7 +37,7 @@ void handle_second_tick() {
 }
 
 void start_timer() {
-    listening_for_time_modification = false;
+    listening_for_time_modification = !listening_for_time_modification;
 }
 
 void handle_up() {
