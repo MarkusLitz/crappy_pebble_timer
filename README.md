@@ -1,6 +1,8 @@
 Crappy Pebble Timer
 ===================
 
+Simple Countdown Timer. 
+
 ![Photo](http://d.pr/i/flhZ+)
 
 ### Download version 1.0
