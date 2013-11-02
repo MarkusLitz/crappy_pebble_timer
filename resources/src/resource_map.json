@@ -1,9 +1,9 @@
 {
     "media": [
         {
-            "defName": "DUMMY",
-            "type": "raw",
-            "file": "resource_map.json"
+            "defName": "ICON_IMAGE",
+            "type": "png",
+            "file": "images/icon.png"
         }
     ],
     "friendlyVersion": "VERSION",

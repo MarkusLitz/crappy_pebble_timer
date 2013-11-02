@@ -8,7 +8,7 @@
 PBL_APP_INFO(MY_UUID,
              "Crappy Timer", "Markus Litz",
              1, 0, /* App version */
-             DEFAULT_MENU_ICON,
+             RESOURCE_ID_ICON_IMAGE,
              APP_INFO_STANDARD_APP);
 
 	
