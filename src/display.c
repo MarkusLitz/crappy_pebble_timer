@@ -49,7 +49,7 @@ void initialize_display() {
   text_layer_init(&timer, GRect(29, 54, 110, 50));
   text_layer_set_text_color(&timer, GColorWhite);
   text_layer_set_background_color(&timer, GColorClear);
-  text_layer_set_font(&timer, fonts_get_system_font(FONT_KEY_GOTHIC_28));
+  text_layer_set_font(&timer, fonts_get_system_font(FONT_KEY_BITHAM_30_BLACK));
 
   layer_add_child(&window.layer, &timer.layer);
 

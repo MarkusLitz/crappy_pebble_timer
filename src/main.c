@@ -11,8 +11,8 @@ PBL_APP_INFO(MY_UUID,
              DEFAULT_MENU_ICON,
              APP_INFO_STANDARD_APP);
 
-#define BUTTON_CLICK_TIME_SHIFT 30
-#define INITIAL_TIME 5*60
+#define BUTTON_CLICK_TIME_SHIFT 60
+#define INITIAL_TIME 10 * 60
 
 bool listening_for_time_modification = true;
 

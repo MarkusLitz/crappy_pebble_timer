@@ -3,7 +3,7 @@
 timer_t time_left;
 
 void add_time(timer_t amount) {
-    if(time_left < 99*60) {
+    if(time_left < 180*60) {
         time_left += amount;
     }
 }
